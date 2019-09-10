@@ -3,7 +3,7 @@ Open Door device with ESP32 chip
 
 
 ## Background
-Few month ago, we're moved our office to a new place, prevously this plave was a shop, and has a roller shutter closure and a slibing door, both electronicaly driven, but with different systems.
+Few month ago, we're moved our office to a new place, prevously this plave was a shop, and has a roller shutter closure and an automatic sliding door, both electronicaly driven, but with different systems.
 Now we have to carry several remotes to access the office every morning.
 
 Hey! We're a tech firm: We can integrate this into a mobile App
